@@ -46,6 +46,6 @@ This experiment demonstrates:
 ---
 
 ### Student Details
-- Arnav Domalwar
+- ARNAV DOMALWAR
 - Batch- B3
 - Section-Roll no - O1-69
