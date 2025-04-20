@@ -1,4 +1,4 @@
-# Oops-TA-2
+# OOPS - TA
 ### 1. `exp-1_classesAndObjects`
 This experiment demonstrates the basics of defining and using classes and objects in Java. It covers:
 - Defining a class with fields and methods.
